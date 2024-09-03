@@ -1,5 +1,5 @@
 {
-    "name": "alpinadigital/ratchet"
+    "name": "madisjkr/ratchet"
   , "type": "library"
   , "description": "PHP WebSocket library"
   , "keywords": ["WebSockets", "Server", "Ratchet", "Sockets", "WebSocket"]
